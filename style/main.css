@@ -54,6 +54,7 @@ header nav a:hover{
     margin-top: 15% ;
     font-family: 'Trebuchet MS', Arial, sans-serif;
     font-size: 40px;
+    
  
 }
 
@@ -75,3 +76,11 @@ header nav a:hover{
     color: black;
 }
 
+.container{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.filme-principal .container{
+    width: 60%;
+}
